@@ -1,4 +1,4 @@
- first clone the repository using the command git clone https://github.com/your-username/quiz-app.git
+ first clone the repository using the command git clone https://github.com/vishal0955/MCQ-app.git
 
  navigate into the project directory with cd quiz-app.
 
